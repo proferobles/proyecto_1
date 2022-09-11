@@ -173,7 +173,7 @@ var options = {
 				group_maxHeight     : "150px",
 				//container_maxHeight : "350px", 
 				exclusive       	: false,
-				collapsed : false, 
+				collapsed : true, 
 				position: 'topright'
 			};
 		
