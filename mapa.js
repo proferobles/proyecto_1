@@ -95,6 +95,66 @@ var granja = L.marker([-34.853855, -58.348877], {icon: azul})
     + "<img src= './imagenes/IMG1.jpg'/>"
     + "<A HREF='https://www.instagram.com/granjamunicipalbrown'> Mas info... </A>").on('click', xxy);
 
+//var A = L.marker([-34.8376777,-58.36185080000001], {icon: azul},13).bindPopup("<strong>Parrilla La Quinta<strong>" + "<br/>" + "25 de Mayo 1208,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'A.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var B = L.marker([-34.8498868,-58.36030390000001], {icon: azul},13).bindPopup("<strong>La Tía Rosita<strong>" + "<br/>" + "Pedro de Irigoyen 800,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'B.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var C = L.marker([-34.8411399,-58.3689939], {icon: azul},13).bindPopup("<strong>El Navegante<strong>" + "<br/>" + "25 de Mayo 628,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'C.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var D = L.marker([-34.8810443,-58.3417675], {icon: azul},13).bindPopup("<strong>El Bar de Alberto<strong>" + "<br/>" + "Gumercindo Pereyra 3860,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'D.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var tierra_frutos = L.marker([-34.845781,-58.331646], {icon: azul},13).bindPopup("<strong>Tierra y frutos<strong>" + "<br/>" + "Juan B Justo 2316,Ministro Rivadavia" + "<br/>" + "Contacto: 1165850087" + "<br/>" + "<img src= 'E.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var Mario = L.marker([-34.837869,-58.341797], {icon: azul},13).bindPopup("<strong>Granja Don Mario<strong>" + "<br/>" + "Laprida 2192,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'F.jpg'/>" + "<A HREF='FB: Granja Don Mario IG: @granjadonmario'> Mas info... </A> " ).on('click', xxy);
+var Medina = L.marker([-34.842964,-58.333378], {icon: azul},13).bindPopup("<strong>Los Medina<strong>" + "<br/>" + "Chivilcoy 2320,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'G.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var H = L.marker([-34.8769304,-58.3452746], {icon: azul},13).bindPopup("<strong>13 de diciembre SPIGBA<strong>" + "<br/>" + "Gral. Brig. Manuel Calderón 1000,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'H.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var I  = L.marker([-34.8630116,-58.3581727], {icon: azul},13).bindPopup("<strong>Adeba<strong>" + "<br/>" + "Av República Argentina 7500,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'I .jpg'/>" + "<A HREF='FB: Nueva.Adeba'> Mas info... </A> " ).on('click', xxy);
+//var J = L.marker([-34.8517337,-58.3328766], {icon: azul},13).bindPopup("<strong>Lo de Naimo<strong>" + "<br/>" + "Nuñez 3842,Ministro Rivadavia" + "<br/>" + "Contacto: 1165157164" + "<br/>" + "<img src= 'J.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var K = L.marker([-34.8765244,-58.3444457], {icon: azul},13).bindPopup("<strong>El Tucu<strong>" + "<br/>" + "Gral. Brig. Manuel Calderón 501,Ministro Rivadavia" + "<br/>" + "Contacto: 1138345857" + "<br/>" + "<img src= 'K.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var LK = L.marker([-34.8463908,-58.37491019999999], {icon: azul},13).bindPopup("<strong>Lo de Guille <strong>" + "<br/>" + "Carlos Sandoval 54,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'L.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var M = L.marker([-34.8459358,-58.35955740000001], {icon: azul},13).bindPopup("<strong>Vicky<strong>" + "<br/>" + "Teniente Félix Origone 975,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'M.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var N = L.marker([-34.8486155,-58.3713559], {icon: azul},13).bindPopup("<strong>Club Barrio Parque<strong>" + "<br/>" + "Almitante Irizar 168,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'N.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var Changuitos = L.marker([-34.843393,-58.320977], {icon: azul},13).bindPopup("<strong>Los Changuitos<strong>" + "<br/>" + "Lezica 2065,Ministro Rivadavia" + "<br/>" + "Contacto: 1155281255" + "<br/>" + "<img src= 'O.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var P = L.marker([-34.8409004,-58.36821509999999], {icon: azul},13).bindPopup("<strong>Heladería Chevanne<strong>" + "<br/>" + "25 de mayo 700,Ministro Rivadavia" + "<br/>" + "Contacto: 15 6949-7525" + "<br/>" + "<img src= 'P.jpg'/>" + "<A HREF='www.chevanne.com.ar'> Mas info... </A> " ).on('click', xxy);
+//var Q = L.marker([-34.8468485,-58.3759909], {icon: azul},13).bindPopup("<strong>Grido<strong>" + "<br/>" + "Avenida Espora 5082,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'Q.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var R = L.marker([-34.8412888,-58.36467109999999], {icon: azul},13).bindPopup("<strong>Donde quieras<strong>" + "<br/>" + "Fernando Lahille 198,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'R.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var S = L.marker([-34.8437455,-58.37428620000001], {icon: azul},13).bindPopup("<strong>Panaderia Las Violetas<strong>" + "<br/>" + "25 de mayo 298,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'S.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var T = L.marker([-34.8474559,-58.37439019999999], {icon: azul},13).bindPopup("<strong>Mari Lau<strong>" + "<br/>" + "Berazain 286,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'T.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var U = L.marker([-34.8414975,-58.36354249999999], {icon: azul},13).bindPopup("<strong>La esquina panchería<strong>" + "<br/>" + "Plaza Eva Perón,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'U.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var airesdelsur = L.marker([-34.846589,-58.336754], {icon: azul},13).bindPopup("<strong>Parapentes Aires del Sur<strong>" + "<br/>" + "Juan B. Justo 2100,Ministro Rivadavia" + "<br/>" + "Contacto: 1153748148  1155166387" + "<br/>" + "<img src= 'V.jpg'/>" + "<A HREF='FB: Parapente.airesdelsur'> Mas info... </A> " ).on('click', xxy);
+//var W = L.marker([-34.84846140000001,-58.3711003], {icon: azul},13).bindPopup("<strong>Fanny Tentaciones<strong>" + "<br/>" + "Virrey Cevallos 575,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'W.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var X = L.marker([-34.8792387,-58.34994919999999], {icon: azul},13).bindPopup("<strong>Don Patricio<strong>" + "<br/>" + "Gral. Brig. Manuel Calderón 61,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'X.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var Y = L.marker([-34.848429,-58.37282570000001], {icon: azul},13).bindPopup("<strong>La Nueva<strong>" + "<br/>" + "Mariano Saavedra 472,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'Y.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var Z = L.marker([-34.8537028,-58.36704649999999], {icon: azul},13).bindPopup("<strong>Pizzeria De Mario Y Claudia<strong>" + "<br/>" + "Virrey Ceballos 1202,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'Z.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var AA = L.marker([-34.8774835,-58.3459557], {icon: azul},13).bindPopup("<strong>Pizzeria Doña Maria<strong>" + "<br/>" + "Gral. Brig. Manuel Calderón 401,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AA.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var AB = L.marker([-34.8788548,-58.34947799999999], {icon: azul},13).bindPopup("<strong>Pizzeria El Toque<strong>" + "<br/>" + "Gral. Brig. Manuel Calderón 84,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AB.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var AC = L.marker([-34.8510855,-58.3724744], {icon: azul},13).bindPopup("<strong>Pizza Uru<strong>" + "<br/>" + "Tte. Félix Origone 24,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AC.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var AD = L.marker([-34.8314429,-58.3487988], {icon: azul},13).bindPopup("<strong>Quinta Setiembre<strong>" + "<br/>" + "Aconquija 1152,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AD.jpg'/>" + "<A HREF='www.eventossetiembre.com.ar'> Mas info... </A> " ).on('click', xxy);
+var Selva = L.marker([-34.836571,-58.355524], {icon: azul},13).bindPopup("<strong>Selva Madre<strong>" + "<br/>" + "María A. de Lescano 221,Ministro Rivadavia" + "<br/>" + "Contacto: 011 1526756449" + "<br/>" + "<img src= 'AE.jpg'/>" + "<A HREF='IG: @quintaselvamadre FB:QuintaSelvaMadre'> Mas info... </A> " ).on('click', xxy);
+var Robinson = L.marker([-34.839381,-58.319434], {icon: azul},13).bindPopup("<strong>Las Vueltas de Robinson<strong>" + "<br/>" + "Av. Juan B. Justo 3699-3773,Ministro Rivadavia" + "<br/>" + "Contacto: 011 2492-3030" + "<br/>" + "<img src= 'AF.jpg'/>" + "<A HREF='FB: LasVueltasDeRobinson'> Mas info... </A> " ).on('click', xxy);
+var Loma = L.marker([-34.835387,-58.355437], {icon: azul},13).bindPopup("<strong>Quinta La Loma<strong>" + "<br/>" + "25 de Mayo 1547,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AG.jpg'/>" + "<A HREF='FB: Quinta La Loma'> Mas info... </A> " ).on('click', xxy);
+//var AH = L.marker([-34.8401025,-58.35290680000001], {icon: azul},13).bindPopup("<strong>Quinta Los Naranjos<strong>" + "<br/>" + "María A. de Lescano 340,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AH.jpg'/>" + "<A HREF='FB: QuintaLosNaranjos'> Mas info... </A> " ).on('click', xxy);
+//var AI = L.marker([-34.8399537,-58.3528455], {icon: azul},13).bindPopup("<strong>Quinta La Matera<strong>" + "<br/>" + "María A. de Lescano 328,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AI.jpg'/>" + "<A HREF='FB: lamateradelsur IG: casaquinta_lamatera'> Mas info... </A> " ).on('click', xxy);
+var Mont = L.marker([-34.847995,-58.337644], {icon: azul},13).bindPopup("<strong>Mont Plaisir<strong>" + "<br/>" + "Juan B Justo 2000,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AJ.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var Facundo = L.marker([-34.846589,-58.336754], {icon: azul},13).bindPopup("<strong>Don Facundo<strong>" + "<br/>" + "Juan B Justo 2100,Ministro Rivadavia" + "<br/>" + "Contacto: 1155166387" + "<br/>" + "<img src= 'AK.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var Municipal = L.marker([-34.85378929808223 ,-58.34893014346852], {icon: azul},13).bindPopup("<strong>Granja Educativa Municipal<strong>" + "<br/>" + "Av Juan B Justo 1000,Ministro Rivadavia" + "<br/>" + "Contacto: 1150346200" + "<br/>" + "<img src= 'AL.jpg'/>" + "<A HREF='FB: Granja Educativa Municipal Brown IG: @granjamunicipalbrown'> Mas info... </A> " ).on('click', xxy);
+var Gabriel = L.marker([-34.849566,-58.338687], {icon: azul},13).bindPopup("<strong>Quinta San Gabriel<strong>" + "<br/>" + "Av. Juan B. Justo 1955,Ministro Rivadavia" + "<br/>" + "Contacto: 11 2402-7050" + "<br/>" + "<img src= 'AM.jpg'/>" + "<A HREF='www.quintasangabriel.com'> Mas info... </A> " ).on('click', xxy);
+var Luisa = L.marker([-34.851402,-58.359132], {icon: azul},13).bindPopup("<strong>Estancia La Luisa<strong>" + "<br/>" + "Av. República Argentina 6649,Ministro Rivadavia" + "<br/>" + "Contacto: 1136185349" + "<br/>" + "<img src= 'AN.jpg'/>" + "<A HREF='FB: EstanciaLaLuisa'> Mas info... </A> " ).on('click', xxy);
+var Ambá = L.marker([-34.848686,-58.317195], {icon: azul},13).bindPopup("<strong>Campito Ambá<strong>" + "<br/>" + "Lezica 4030,Ministro Rivadavia" + "<br/>" + "Contacto: 1528678806" + "<br/>" + "<img src= 'AO.jpg'/>" + "<A HREF='red.huertascomunitarias'> Mas info... </A> " ).on('click', xxy);
+//var AP = L.marker([-34.8770147,-58.3341349], {icon: azul},13).bindPopup("<strong>Quinta L& B<strong>" + "<br/>" + "Gral. Juan Gregorio Lemos 3870,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AP.jpg'/>" + "<A HREF='IG:  quintalyb'> Mas info... </A> " ).on('click', xxy);
+//var AQ = L.marker([-34.8711875,-58.3420625], {icon: azul},13).bindPopup("<strong>Quinta Don Federico<strong>" + "<br/>" + "4MH5+G5,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AQ.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var AR = L.marker([-34.8498026,-58.3735843], {icon: azul},13).bindPopup("<strong>Casa QUIEN<strong>" + "<br/>" + "Espora 5733,Ministro Rivadavia" + "<br/>" + "Contacto: 1168217690" + "<br/>" + "<img src= 'AR.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+//var AS = L.marker([-34.8536808,-58.37082170000001], {icon: azul},13).bindPopup("<strong>Los Especialistas<strong>" + "<br/>" + "Espora 6199,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AS.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var Amelie = L.marker([-34.831943,-58.349281], {icon: azul},13).bindPopup("<strong>Estancia Amelie<strong>" + "<br/>" + "Batalla de Cancha Rayada 825,Ministro Rivadavia" + "<br/>" + "Contacto: 011 5993-8342" + "<br/>" + "<img src= 'AT.jpg'/>" + "<A HREF='www.amelieventos.com'> Mas info... </A> " ).on('click', xxy);
+//var AU = L.marker([-34.8342366,-58.35584779999999], {icon: azul},13).bindPopup("<strong>Los Cipreses<strong>" + "<br/>" + "25 de Mayo 1696,Ministro Rivadavia" + "<br/>" + "Contacto: 1132572850" + "<br/>" + "<img src= 'AU.jpg'/>" + "<A HREF='loscipreseseventos.com.ar'> Mas info... </A> " ).on('click', xxy);
+//var AV = L.marker([-34.8783872,-58.3482422], {icon: azul},13).bindPopup("<strong>Martina Parrilla<strong>" + "<br/>" + "Gral. Brig. Manuel Calderón 299,Ministro Rivadavia" + "<br/>" + "Contacto: " + "<br/>" + "<img src= 'AV.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+
+
+
+
+
+// create the GeoJSON layer
+var panificadora = L.marker([-34.854219,-58.350772], {icon: azul},13).bindPopup("<strong>Centro de Formación para el Trabajo en Panificados y Gastronomía<strong>" + "<br/>" + "Av Juan B Justo 900,Ministro Rivadavia" + "<br/>" + "Contacto: empleo@gmail.gob.ar" + "<br/>" + "<img src= 'AL.jpg'/>" + "<A HREF='FB: Granja Educativa Municipal Brown IG: @granjamunicipalbrown'> Mas info... </A> " ).on('click', xxy);
+var CEA = L.marker([-34.856548,-58.354818], {icon: azul},13).bindPopup("<strong>CEA 34 Centro de Educación Agraria<strong>" + "<br/>" + "Av. Juan B. Justo 8505,Ministro Rivadavia" + "<br/>" + "Contacto: 11 2402-7050" + "<br/>" + "<img src= 'AM.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+var Sasaki = L.marker([-34.884281,-58.334975], {icon: azul},13).bindPopup("<strong>Sasaki<strong>" + "<br/>" + "Coronel Quesada 4441 Ministro Rivadavia" + "<br/>" + "Contacto: 1155958955" + "<br/>" + "<img src= 'AN.jpg'/>" + "<A HREF='FB: EstanciaLaLuisa'> Mas info... </A> " ).on('click', xxy);
+var SOL = L.marker([-34.883627,-58.333632], {icon: azul},13).bindPopup("<strong>Sol y Verde es Vida<strong>" + "<br/>" + "Coronel Quesada 4446 Ministro Rivadavia" + "<br/>" + "Contacto: 1121619500" + "<br/>" + "<img src= 'AO.jpg'/>" + "<A HREF=''> Mas info... </A> " ).on('click', xxy);
+
+
 	
 
 
@@ -140,7 +200,26 @@ var overlays = [
 								groupName : "Instituciones publicas",
 								expanded : true,
 								layers    : { 
-									"Granja Educativa Municipal": granja,
+									//S"Granja Educativa Municipal": granja,
+									"Tierra y Frutos" :tierra_frutos ,
+									"Granja Don Mario":Mario, 
+									"Los Medina": Medina, 
+									"Los Changuitos": Changuitos,
+									"Parapentes Aires del Sur":airesdelsur, 
+									"Selva Madre":Selva, 
+									"Las Vueltas de Robinson":Robinson,
+									"Quinta La Loma": Loma, 
+									"Mont Plaisir":Mont, 
+									"Don Facundo":Facundo, 
+									"Granja Educativa Municipal":Municipal, 
+									"Quinta San Gabriel": Gabriel, 
+									"Estancia La Luisa":Luisa, 
+									"Campito Ambá":Ambá, 
+									"Estancia Amelie":Amelie,
+									"Centro de Formacion para el Trabajo en Panificados": panificadora,
+									"CEA 34 Centro de Educación Agraria": CEA,
+									"Sasaki": Sasaki,
+									"Sol y Verde es Vida" :SOL
 									
 								}	
                              },
